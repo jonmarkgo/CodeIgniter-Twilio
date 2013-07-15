@@ -29,3 +29,4 @@ $this->twilio->request("/$ApiVersion/Accounts/$AccountSid/Calls", "POST", $data)
 -Ben Edmunds
  ben.edmunds@gmail.com
  @benedmunds 
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/19a2e5150dc9d7adfb27579856152f82 "githalytics.com")](http://githalytics.com/jonmarkgo/CodeIgniter-Twilio)
